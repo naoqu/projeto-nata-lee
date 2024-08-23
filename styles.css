@@ -1,0 +1,30 @@
+body{
+color:blue rgb(75, 141, 45);
+background: purple rgb(164, 165, 194);
+margin: 8px;
+font-family: "Exo 2", sans-serif;
+}
+
+header {
+
+border-bottom: solid 2px purple rgb(235, 192, 255);
+padding: 20px;
+font-size: 32px;
+color: rgb (235, 192, 255);
+}
+
+section{ 
+background: Wite rgb(164, 164, 164);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
+}
+
+.chamada-texto{
+margin-right: 5%;
+
+}
+
+h1{}
